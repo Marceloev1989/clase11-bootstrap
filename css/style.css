@@ -17,3 +17,14 @@
 .greed-bootstrap div{
     border: 1px solid black;
 }
+.color-nav{
+    background-color: crimson;
+    font-weight: 900;
+}
+/* cambia color al desplegar */
+.color.accordion{
+    background-color: rgba(45, 45, 247, 0.425);
+}
+.negrita{
+    font-weight: 900;
+}
